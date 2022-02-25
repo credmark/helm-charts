@@ -68,7 +68,6 @@ extraArgs:
   # scan-interval: 10s
   # scale-down-delay: 3m
   scale-down-unneeded-time: 3m
-  skip-nodes-with-local-storage: false
   skip-nodes-with-system-pods: true
 
 ## Affinity for pod assignment
